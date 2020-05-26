@@ -1,6 +1,8 @@
 # BQM
 
+### Pegasus Architecture (source: https://arxiv.org/pdf/1901.07636.pdf)
 ![imh](phegasas.png)
+
 ### References
 1. [D-Wave Ocean Software Documentation](https://docs.ocean.dwavesys.com/en/latest/index.html)
 2. [Pegasus: The second connectivity graph for large-scale quantum annealing hardware](https://arxiv.org/pdf/1901.07636.pdf)
